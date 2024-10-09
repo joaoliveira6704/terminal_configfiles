@@ -1,2 +1,2 @@
-# terminal_configfiles
-Config Files for My Environment
+# vim_configfiles
+Config Files for Vim
